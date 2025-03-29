@@ -5,7 +5,7 @@
       "src": "app/main.py",
       "use": "@vercel/python",
       "config": {
-        "buildCommand": "pip install -r requirements.txt"
+        "buildCommand": "pip3 install -r requirements.txt"
       }
     }
   ],
